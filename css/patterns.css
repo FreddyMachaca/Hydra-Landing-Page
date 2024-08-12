@@ -1,0 +1,45 @@
+.btn-transparent {
+  width: 15.4rem;
+  height: 4.8rem;
+  border-radius: 4rem;
+  border: 2px solid #fff;
+  color: var(--white);
+  font-size: 1.2rem;
+  font-weight: 700;
+  transition: all 0.5s ease;
+}
+
+.btn-transparent:hover {
+  background: var(--white);
+  color: var(--purple-main);
+}
+
+.btn-primary {
+  width: 15.5rem;
+  height: 4.8rem;
+  border-radius: 4rem;
+  color: var(--black-opacity);
+  font-weight: 700;
+  font-size: 12px;
+  background: var(--purple-gradiente);
+  transition: opacity 0.5s ease;
+}
+
+.btn-primary:hover {
+  opacity: 0.7;
+}
+
+.btn-primary-large {
+  width: 21.4rem;
+  height: 4.8rem;
+  border-radius: 4rem;
+  color: var(--black-opacity);
+  font-size: 12px;
+  font-weight: 700;
+  background: var(--purple-gradiente);
+  transition: opacity 0.5s ease;
+}
+
+.btn-primary-large:hover {
+  opacity: 0.7;
+}

@@ -1,0 +1,7 @@
+:root {
+  --white: #fff;
+  --purple-main: #343045;
+  --purple-light: #c0b7e8;
+  --purple-gradiente: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  --black-opacity: #343045;
+}
